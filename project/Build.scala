@@ -6,7 +6,7 @@ import AssemblyKeys._
 object Build extends Build {
 
   val Org = "com.cloudwick.kafka"
-  val ProjectName = "sequence-produce"
+  val ProjectName = "sequence-producer"
 
   val ScalaVersion = "2.11.8"
   val Kafka = "0.9.0.1"
